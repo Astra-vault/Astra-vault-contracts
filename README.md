@@ -14,9 +14,9 @@ Built with **Soroban** + **X-Ray Protocol 25** (native BN254 elliptic curve + Po
 
 | Contract          | Purpose                                                                 | Status      |
 |-------------------|-------------------------------------------------------------------------|-------------|
-| `rwa_token`       | Custom RWA asset issuance, mint/burn, metadata, admin controls          | Implemented |
-| `zk_verifier`     | On-chain Groth16 zk-SNARK verification using BN254 host functions       | In progress |
-| `escrow`          | Milestone-based escrow for private trades, conditional releases, yields | Implemented |
+| `rwa_token`       | Custom RWA asset issuance, mint/burn, metadata, admin controls          | Planned     |
+| `zk_verifier`     | On-chain Groth16 zk-SNARK verification using BN254 host functions       | Planned     |
+| `escrow`          | Milestone-based escrow for private trades, conditional releases, yields | Planned     |
 | `access_control`  | Role-based access (admin, minter, oracle) for compliance & security     | Planned     |
 | `yield_distributor`| Optional community yield / UBI distribution from RWA fees              | Planned     |
 
